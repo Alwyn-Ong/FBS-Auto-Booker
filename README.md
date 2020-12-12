@@ -6,7 +6,7 @@ A program to help automate the booking of facilities in the Facility Booking Sys
 ![](assets/demo2.gif)
 
 ## Usage guide
-Download the latest .exe from releases.
+Download the latest .exe from [releases](https://github.com/Alwyn-Ong/FBS-Auto-Booker/releases).
 
 ## Deployment Guide
 1. `git-clone` the repo to your local directory
