@@ -3,6 +3,7 @@ A program to help automate the booking of facilities in the Facility Booking Sys
 
 ## Demo
 ![](assets/demo.gif)
+![](assets/demo2.gif)
 
 ## Usage guide
 Download the latest .exe from releases.
