@@ -1,0 +1,1 @@
+CMD /K fbs\Scripts\activate
