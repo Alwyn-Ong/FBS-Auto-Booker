@@ -1,8 +1,12 @@
 # FBS-Auto-Booker
 A program to help automate the booking of facilities in the Facility Booking System (FBS).
 
-## Demo
+## Demos
+
+### Demo 1
 ![](assets/demo.gif)
+
+### Demo 2
 ![](assets/demo2.gif)
 
 ## Usage guide
